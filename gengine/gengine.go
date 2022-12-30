@@ -1,0 +1,5 @@
+package gengine
+
+func SingleRule() {
+
+}
